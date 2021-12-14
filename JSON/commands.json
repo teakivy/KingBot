@@ -1,0 +1,23 @@
+{
+	"everyone": [
+		{ "name": "ping", "description": "Replies with Latency Statistics", "usage": "ping", "properties": [] },
+		{ "name": "hello", "description": "Hi!", "usage": "hello", "properties": [] },
+		{ "name": "rick", "description": "Roll!", "usage": "rick", "properties": [] },
+		{ "name": "version", "description": "King Bot Version Info", "usage": "version", "properties": [] },
+		{ "name": "promo", "description": "Self Promo your Twitch!", "usage": "promo <channel>", "properties": ["NEW"] },
+		{ "name": "derp", "description": "How Derpy are you?", "usage": "derp", "properties": [] },
+		{ "name": "stats", "description": "Statistics", "usage": "stats [user]", "properties": [] },
+		{ "name": "help", "description": "Help!", "usage": "help", "properties": [] }
+	],
+	"player": [
+		{ "name": "lock", "description": "Lock a channel", "usage": "lock [Channel]", "properties": [] },
+		{ "name": "unlock", "description": "Unlock a channel", "usage": "unlock [Channel]", "properties": [] }
+	],
+	"moderator": [
+		{ "name": "archive", "description": "Archive a channel", "usage": "archive [Channel]", "properties": [] },
+		{ "name": "clearchat", "description": "Clear chat messages!", "usage": "clearchat <messages>", "properties": [] }
+	],
+	"owner": [
+		{ "name": "shutdown", "description": "[EMERGENCY] Shutdown King Bot", "usage": "shutdown", "properties": [] }
+	]
+}

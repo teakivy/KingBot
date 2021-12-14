@@ -1,0 +1,101 @@
+{
+	"lang": "en",
+	"prefix": "/",
+	"color": "#eb7e10",
+	"version": "1.0.0 [BETA]",
+	"release": {
+		"guildID": "756029127156433028",
+		"channels": {
+			"log": "917092520742236180",
+			"welcome": "756029127638908952",
+			"meeapi": {
+				"youtube": "916896207782182972",
+				"twitch": "",
+				"twitter": "",
+				"instagram": ""
+			},
+			"notifications": {
+				"youtube": "756035943344898179",
+				"twitch": "911220275302002708",
+				"twitter": "756035973019730072",
+				"instagram": "911220316288733224"
+			}
+		},
+		"roles": {
+			"member": "916894961348268063",
+			"player": "910587719946747966",
+			"moderator": "756033122751086614",
+			"admin": "756033383523680357",
+			"owner": "756029381478055936",
+			"bot": "916896978468753439",
+			"hePronouns": "917092989367619655",
+			"shePronouns": "917093100575395910",
+			"theyPronouns": "917093173719875614",
+			"askPronouns": "917093199414186014",
+			"youtubeNotifications": "917093266036502538",
+			"twitchNotifications": "917093641590304778",
+			"twitterNotifications": "917093390770896917",
+			"instagramNotifications": "917093717863710851"
+		},
+		"categories": {
+			"archive": "916895548697616395"
+		},
+		"emoji": {
+			"notification": "🔔",
+			"applications": "✅",
+			"youtube": "<:youtube:917096489635954738>",
+			"twitch": "<:twitch:917096670846677053>",
+			"twitter": "<:twitter:917096489690464257>",
+			"instagram": "<:instagram:917096489640140870>"
+		}
+	},
+	"dev": {
+		"guildID": "916902111046950922",
+		"channels": {
+			"log": "916908026869456926",
+			"welcome": "916902111374090265",
+			"meeapi": {
+				"youtube": "916902112078749748",
+				"twitch": "",
+				"twitter": "",
+				"instagram": ""
+			},
+			"notifications": {
+				"youtube": "916902111374090260",
+				"twitch": "916902111374090261",
+				"twitter": "916902111374090262",
+				"instagram": "916902111374090263"
+			}
+		},
+		"roles": {
+			"member": "916902111046950923",
+			"player": "916902111046950925",
+			"moderator": "916902111046950927",
+			"admin": "916902111046950928",
+			"owner": "916902111046950929",
+			"bot": "916902111046950926",
+			"hePronouns": "916908819920080896",
+			"shePronouns": "916908879777005610",
+			"theyPronouns": "916908912979083294",
+			"askPronouns": "916908948085424138",
+			"youtubeNotifications": "916911520343027723",
+			"twitchNotifications": "916911562625781761",
+			"twitterNotifications": "916911599422419004",
+			"instagramNotifications": "916911639570305064"
+		},
+		"categories": {
+			"archive": "916902112078749746"
+		},
+		"emoji": {
+			"notification": "🔔",
+			"applications": "✅",
+			"youtube": "<:youtube:889303093609644104>",
+			"twitch": "<:twitch:889303068066349087>",
+			"twitter": "<:twitter:889303050207002666>",
+			"instagram": "<:instagram:897265288976957460>"
+		}
+	},
+	"extra": {
+		"botOwner": ["408086350953447425", "290694600283127808", "350843938573385740"]
+	}
+}
